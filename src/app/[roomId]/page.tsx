@@ -117,7 +117,7 @@ const EditorPage = () => {
   return (
     <div className={styles.container}>
       <header className={styles.header}>
-        <span className={styles.logo}>code-fly</span>
+        <span className={styles.logo}>codex-fly</span>
         <div className={styles.headerRight}>
           <div className={styles.roomCopyContainer}>
             <span style={{ color: '#fff', fontFamily: 'monospace', fontSize: 16, marginRight: 12 }}>Room: {roomId}</span>
