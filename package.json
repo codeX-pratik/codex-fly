@@ -16,7 +16,7 @@
     "dotenv": "^17.1.0",
     "lang-detector": "^1.0.6",
     "mongodb": "^6.17.0",
-    "next": "15.3.5",
+    "next": "^16.0.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
